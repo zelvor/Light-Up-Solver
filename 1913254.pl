@@ -1,7 +1,3 @@
-% Sau khi compile file
-% Gõ start. ; start2. ; start3.
-% Để in ra kết quả
-
 :-use_module(library(clpfd)).
 :-use_module(library(lists)).
 :-use_module(library(random)).
