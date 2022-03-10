@@ -1,2 +1,1 @@
-# nhapmonAI
-Tài liệu học Introduction AI HK 211
+Light Up Solver by Prolog.
