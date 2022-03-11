@@ -1,1 +1,1 @@
-Light Up Solver by Prolog.
+Light Up Solver by Prolog. (Introduction AI HK211)
